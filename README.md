@@ -1,5 +1,12 @@
 # RL Assignment — Project 7: Self-Driving Lab Simulator
 
+**Submitted by**
+
+| Name | Roll No. |
+|---|---|
+| Moosa Kaleemullah | 100523733076 |
+| Siddharth Wali | 100523733061 |
+
 Unit 5 Reinforcement Learning homework. A tabular **Q-learning** agent learns which reaction
 conditions (temperature and concentration) to try next in a simulated chemistry lab, so as to
 maximise product yield within a fixed budget of 30 experiments.
