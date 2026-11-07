@@ -1,0 +1,38 @@
+{
+  "evaluation": {
+    "q": {
+      "return_mean": 21.71776154892992,
+      "return_std": 3.788122764942601,
+      "final_yield_mean": 77.6087093162568,
+      "final_yield_std": 14.046204712012955,
+      "pct_reaching_global_opt": 79.5
+    },
+    "random": {
+      "return_mean": 6.098062369991263,
+      "return_std": 4.6976161949765665,
+      "final_yield_mean": 21.98358394697692,
+      "final_yield_std": 21.377734031457603,
+      "pct_reaching_global_opt": 3.8
+    },
+    "hill": {
+      "return_mean": 13.472353618721927,
+      "return_std": 7.948165050135211,
+      "final_yield_mean": 60.11972322802903,
+      "final_yield_std": 32.0763302159539,
+      "pct_reaching_global_opt": 53.900000000000006
+    }
+  },
+  "global_optimum": {
+    "T": 90.0,
+    "C": 1.5000000000000002,
+    "yield": 90.0000000000194
+  },
+  "episodes": 3000,
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ]
+}
